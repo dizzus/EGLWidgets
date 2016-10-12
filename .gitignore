@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+*.o
+clock
+texture
+logo
+triangle
